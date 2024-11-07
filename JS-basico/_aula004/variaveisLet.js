@@ -1,7 +1,7 @@
 
-let nome1 = "João"
-let nome2 = "Maria"
-let nome3 = "Eduardo"
+let nome1 = "Savio"
+let nome2 = "Simone"
+let nome3 = "Davi"
 
 console.log(`${nome1} nasceu em 1984.`)
 console.log(`Em 2000 ${nome1} conheceu ${nome2}.`)
